@@ -1,6 +1,6 @@
-# docker-vagrant
+# node-vagrant
 
-A quick way to get docker set up on a VM
+Spin up a VM running nodejs
 
 
 Install Vagrant, VirtualBox and git
@@ -14,7 +14,13 @@ Install Vagrant, VirtualBox and git
 Set up
 ---
 
-    $ git clone https://github.com/redgeoff/docker-vagrant.git
+    $ git clone https://github.com/redgeoff/node-vagrant.git
     $ cd docker-vagrant
     $ vagrant up
     $ vagrant ssh
+
+
+Notes
+---
+
+    Files placed in `app` are ignored by this repo.
