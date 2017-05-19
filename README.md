@@ -23,4 +23,4 @@ Set up
 Notes
 ---
 
-    Files placed in `app` are ignored by this repo.
+- Files placed in `app` are ignored by this repo.
