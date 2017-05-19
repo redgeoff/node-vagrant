@@ -2,4 +2,4 @@
 
 /vagrant/ubuntu.sh
 
-/vagrant/node.sh
+/vagrant/nodejs.sh
