@@ -4,6 +4,8 @@
 
 /vagrant/nodejs.sh
 
+/vagrant/phantomjs.sh
+
 /vagrant/java.sh
 
 # Default to app dir
