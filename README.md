@@ -15,7 +15,7 @@ Set up
 ---
 
     $ git clone https://github.com/redgeoff/node-vagrant.git
-    $ cd docker-vagrant
+    $ cd node-vagrant
     $ vagrant up
     $ vagrant ssh
 
