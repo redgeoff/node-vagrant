@@ -9,5 +9,8 @@ apt-get install -y nodejs build-essential
 # Update npm
 npm install npm -g
 
+# Install yarn
+npm install -g yarn
+
 # Required for node-gyp and leveldown. TODO: remove once this is no longer required
 apt-get install python
