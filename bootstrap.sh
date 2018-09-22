@@ -14,4 +14,4 @@
 echo "127.0.0.1 node.dev" >> /etc/hosts
 
 # Default to app dir
-echo "cd /vagrant/app" >> /home/ubuntu/.bashrc
+echo "cd /vagrant/app" >> /home/vagrant/.bashrc
