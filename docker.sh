@@ -29,3 +29,4 @@ apt-get install -y docker-ce
 
 # Access docker w/o sudo
 usermod -aG docker ubuntu
+usermod -aG docker vagrant
